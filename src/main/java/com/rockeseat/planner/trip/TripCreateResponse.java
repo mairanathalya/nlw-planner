@@ -1,2 +1,6 @@
-package com.rockeseat.planner.trip;public class TripCreateResponse {
+package com.rockeseat.planner.trip;
+
+import java.util.UUID;
+
+public record TripCreateResponse(UUID tripId) {
 }

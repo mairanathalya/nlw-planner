@@ -1,2 +1,6 @@
-package com.rockeseat.planner.link;public class LinkResponse {
+package com.rockeseat.planner.link;
+
+import java.util.UUID;
+
+public record LinkResponse(UUID linkId) {
 }

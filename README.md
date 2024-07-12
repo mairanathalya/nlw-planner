@@ -4,7 +4,7 @@ O projeto Plann-er tem como objetivo ajudar o usuário a organizar viagens à tr
 O usuário pode criar uma viagem com nome, data de início e fim. Dentro da viagem o usuário pode planejar sua viagem adicionando atividades 
 para realizar em cada dia e links importantes.
 
-## Linguagem e Ferramentas
+## Tecnologias utilizadas
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot

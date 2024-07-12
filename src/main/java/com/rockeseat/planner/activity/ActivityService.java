@@ -1,4 +1,4 @@
-package com.rockeseat.planner.activities;
+package com.rockeseat.planner.activity;
 
 import com.rockeseat.planner.trip.Trip;
 import org.springframework.beans.factory.annotation.Autowired;

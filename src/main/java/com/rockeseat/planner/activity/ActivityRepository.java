@@ -1,4 +1,4 @@
-package com.rockeseat.planner.activities;
+package com.rockeseat.planner.activity;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

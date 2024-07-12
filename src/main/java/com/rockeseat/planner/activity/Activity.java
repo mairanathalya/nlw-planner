@@ -1,4 +1,4 @@
-package com.rockeseat.planner.activities;
+package com.rockeseat.planner.activity;
 
 import com.rockeseat.planner.trip.Trip;
 import jakarta.persistence.*;
@@ -18,7 +18,6 @@ import java.util.UUID;
 @Entity
 @Table(name = "activities")
 public class Activity {
-
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private UUID id;
